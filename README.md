@@ -51,11 +51,3 @@ A simple, intuitive, and efficient **Task List App** designed to help you organi
 
 6. **Access the app:**
     - Open your browser and go to `http://localhost:8000`
-
----
-
-Feel free to adjust the instructions and tech stack to match your actual setup!
-
----
-
-Answer from Perplexity: pplx.ai/share
