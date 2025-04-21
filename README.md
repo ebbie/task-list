@@ -13,8 +13,8 @@ A simple, intuitive, and efficient **Task List App** designed to help you organi
 
 ## Built With
 
--   [Laravel](https://laravel.com/) (or your backend framework)
--   Plain JavaScript (if applicable)
+-   [Laravel](https://laravel.com/)
+-   Plain JavaScript
 -   MySQL
 
 ## Getting Started
